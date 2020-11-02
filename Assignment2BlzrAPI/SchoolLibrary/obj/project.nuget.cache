@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TsW0MyhSR/9e+7ctudR9pNxOhuL7nk906/Yyp1lxSHIRU+Ci5KKgvRfREy7JTLjmFvHiaWzyrRP5tLtt5YKuAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\SchoolLibrary\\SchoolLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JVBPo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JVBPo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\JVBPo\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

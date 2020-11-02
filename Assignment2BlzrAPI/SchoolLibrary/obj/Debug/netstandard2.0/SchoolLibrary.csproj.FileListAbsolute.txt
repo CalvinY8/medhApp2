@@ -1,0 +1,9 @@
+C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\Assignment2BlzrAPI\SchoolLibrary\bin\Debug\netstandard2.0\SchoolLibrary.deps.json
+C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\Assignment2BlzrAPI\SchoolLibrary\bin\Debug\netstandard2.0\SchoolLibrary.dll
+C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\Assignment2BlzrAPI\SchoolLibrary\bin\Debug\netstandard2.0\SchoolLibrary.pdb
+C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\Assignment2BlzrAPI\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.csprojAssemblyReference.cache
+C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\Assignment2BlzrAPI\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\Assignment2BlzrAPI\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.AssemblyInfo.cs
+C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\Assignment2BlzrAPI\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\Assignment2BlzrAPI\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.dll
+C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\Assignment2BlzrAPI\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.pdb

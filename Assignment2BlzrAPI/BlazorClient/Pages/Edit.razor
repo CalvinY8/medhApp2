@@ -1,0 +1,51 @@
+@page "/edit/{studentInfo}"
+@inject HttpClient httpClient
+@inject NavigationManager NavigationManager
+
+
+<h1>Edit Student</h1>
+
+ <EditForm Model="@student" OnValidSubmit="@HandleUpdate">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <InputText placeholder="First Name" id="firstName" @bind-Value="@student.FirstName" />
+	<br />
+	<InputText placeholder="Last Name" id="lastName" @bind-Value="@student.LastName" />
+	<br />
+	<InputText placeholder="BCIT ID" id="bcitid" @bind-Value="@student.BCITID" />
+	<br />
+	<InputText placeholder="Mobile" id="mobile" @bind-Value="@student.MobileNo" />
+	<br />
+	<InputText placeholder="Email" id="email" @bind-Value="@student.Email" />
+	<br />
+	<InputText placeholder="City" id="city" @bind-Value="@student.City" />
+	<br />
+	<InputText placeholder="Option" id="option" @bind-Value="@student.Option" />
+	<br />
+	<InputText placeholder="Set" id="set" @bind-Value="@student.Set" />
+    <br />
+    <button type="submit" class="btn btn-success">Update</button>
+
+	@code {
+      private async void HandleUpdate() {
+        string endpoint = $"{baseUrl}api/students/{student.StudentId}";
+        await httpClient.PutAsJsonAsync(endpoint, student);
+
+		NavigationManager.NavigateTo(uri: "/students");
+      }
+    }
+   
+  </EditForm> 
+  @code {
+		[Parameter]
+	  	public string studentInfo { get; set; }
+
+		Student student = new Student();
+
+		string baseUrl = "https://localhost:6001/";
+
+		protected override async Task OnInitializedAsync() {
+			student = await httpClient.GetFromJsonAsync<Student>($"{baseUrl}api/students/{studentInfo}");
+      	}
+    }

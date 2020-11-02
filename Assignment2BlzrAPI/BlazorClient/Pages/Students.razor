@@ -1,0 +1,184 @@
+@page "/students"
+@inject HttpClient httpClient
+@inject NavigationManager NavigationManager
+
+<h1>Students</h1>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+@if (students == null) {
+<p><em>Loading...</em></p>
+} else {
+<button @onclick="@Add" class="btn btn-success">Add</button>
+<table class='table table-hover'>
+  <thead>
+	<tr>
+	  <th>First Name</th>
+	  <th>Last Name</th>
+	</tr>
+  </thead>
+  <tbody>
+	@foreach (var item in students) {
+	<tr>
+	  <td>@item.FirstName</td>
+	  <td>@item.LastName</td>
+	  <td><a class="btn btn-success btn-sm" @onclick="@(() => ShowEdit(item.StudentId))">edit</a></td>
+	  <td><a class="btn btn-danger btn-sm" @onclick="@(() => ShowDelete(item.StudentId))">del</a></td> 
+	</tr>
+	
+	}
+  </tbody>
+</table>
+}
+
+@* @if (students != null && mode==MODE.Add) // Insert form
+{
+  <EditForm Model="@student" OnValidSubmit="@HandleAdd">
+	<DataAnnotationsValidator />
+	<ValidationSummary />
+
+	<InputText placeholder="First Name" id="firstName" @bind-Value="@student.FirstName" />
+	<br />
+	<InputText placeholder="Last Name" id="lastName" @bind-Value="@student.LastName" />
+	<br />
+	<InputText placeholder="BCIT ID" id="bcitid" @bind-Value="@student.BCITID" />
+	<br />
+	<InputText placeholder="Mobile" id="mobile" @bind-Value="@student.MobileNo" />
+	<br />
+	<InputText placeholder="Email" id="email" @bind-Value="@student.Email" />
+	<br />
+	<InputText placeholder="City" id="city" @bind-Value="@student.City" />
+	<br />
+	<InputText placeholder="Option" id="option" @bind-Value="@student.Option" />
+	<br />
+	<InputText placeholder="Set" id="set" @bind-Value="@student.Set" />
+	<br />
+	<button type="submit">Submit</button>
+  </EditForm>
+
+  @code {
+	private Student student = new Student();
+
+	private async void HandleAdd() {
+	  string endpoint = $"{baseUrl}api/students";
+
+	  student.StudentId = Guid.NewGuid().ToString();
+
+	  await httpClient.PostAsJsonAsync(endpoint, student);
+
+	  await load();
+	  mode = MODE.None;
+	  StateHasChanged(); // causes the page to get automatically refreshed
+	}
+  }
+}
+
+@if (students != null && mode == MODE.Edit) // Update
+{
+  <EditForm Model="@student" OnValidSubmit="@HandleUpdate">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <InputText placeholder="First Name" id="firstName" @bind-Value="@student.FirstName" />
+	<br />
+	<InputText placeholder="Last Name" id="lastName" @bind-Value="@student.LastName" />
+	<br />
+	<InputText placeholder="BCIT ID" id="bcitid" @bind-Value="@student.BCITID" />
+	<br />
+	<InputText placeholder="Mobile" id="mobile" @bind-Value="@student.MobileNo" />
+	<br />
+	<InputText placeholder="Email" id="email" @bind-Value="@student.Email" />
+	<br />
+	<InputText placeholder="City" id="city" @bind-Value="@student.City" />
+	<br />
+	<InputText placeholder="Option" id="option" @bind-Value="@student.Option" />
+	<br />
+	<InputText placeholder="Set" id="set" @bind-Value="@student.Set" />
+    <br />
+    <button type="submit" class="btn btn-success">Update</button>
+
+    @code {
+      private async void HandleUpdate() {
+        string endpoint = $"{baseUrl}api/students/{student.StudentId}";
+
+        await httpClient.PutAsJsonAsync(endpoint, student);
+
+        await load();
+        mode = MODE.None;
+StateHasChanged(); // causes the page to get automatically refreshed
+      }
+    }
+  </EditForm>
+}
+
+@if (students != null && mode == MODE.Delete) // Delete form
+{
+<EditForm Model="@student" OnValidSubmit="@HandleDelete">
+  <DataAnnotationsValidator />
+  <ValidationSummary />
+
+  <InputText placeholder="First Name" id="firstName" @bind-Value="@student.FirstName" />
+  <br />
+  <InputText placeholder="Last Name" id="lastName" @bind-Value="@student.LastName" />
+  <br />
+  <InputText placeholder="BCIT ID" id="bcitid" @bind-Value="@student.BCITID" />
+  <br />
+  <InputText placeholder="Mobile" id="mobile" @bind-Value="@student.MobileNo" />
+  <br />
+  <InputText placeholder="Email" id="email" @bind-Value="@student.Email" />
+  <br />
+  <InputText placeholder="City" id="city" @bind-Value="@student.City" />
+  <br />
+  <InputText placeholder="Option" id="option" @bind-Value="@student.Option" />
+  <br />
+  <InputText placeholder="Set" id="set" @bind-Value="@student.Set" />
+  <br />
+  <button type="submit" value="Delete" class="btn btn-danger">Delete</button>
+
+  @code {
+    protected async void HandleDelete() {
+      string endpoint = $"{baseUrl}api/students/{student.StudentId}";
+      await httpClient.DeleteAsync(endpoint);
+      await load();
+      mode = MODE.None;
+      StateHasChanged(); // causes the page to get automatically refreshed
+    }
+  }
+</EditForm>
+} *@
+
+@code {
+  Student[] students;
+  string baseUrl = "https://localhost:6001/";
+  private enum MODE { None, Add, Edit, Delete };
+  MODE mode = MODE.None;
+  Student s;
+
+
+  protected override async Task OnInitializedAsync() {
+	await load();
+  }
+
+  protected async Task load() {
+	students = await httpClient.GetFromJsonAsync<Student[]>($"{baseUrl}api/students");
+  }
+
+  protected void Add() {
+    mode = MODE.Add;
+        NavigationManager.NavigateTo(uri:"/add/");
+
+  }
+
+  protected async Task ShowEdit(string id) {
+    NavigationManager.NavigateTo(uri:"/edit/"+ id);
+
+    mode = MODE.Edit;
+}
+
+protected async Task ShowDelete(string id) {
+    NavigationManager.NavigateTo(uri:"/delete/"+ id);
+    mode = MODE.Delete;
+}
+
+
+}
