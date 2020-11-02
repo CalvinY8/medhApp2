@@ -8558,11 +8558,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\SchoolApi\\SchoolApi.csproj",
+      "projectUniqueName": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\SchoolApi\\SchoolApi.csproj",
       "projectName": "SchoolApi",
-      "projectPath": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\SchoolApi\\SchoolApi.csproj",
+      "projectPath": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\SchoolApi\\SchoolApi.csproj",
       "packagesPath": "C:\\Users\\JVBPo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\SchoolApi\\obj\\",
+      "outputPath": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\SchoolApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -8582,8 +8582,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\SchoolLibrary\\SchoolLibrary.csproj": {
-              "projectPath": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\SchoolLibrary\\SchoolLibrary.csproj"
+            "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\SchoolLibrary\\SchoolLibrary.csproj": {
+              "projectPath": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\SchoolLibrary\\SchoolLibrary.csproj"
             }
           }
         }

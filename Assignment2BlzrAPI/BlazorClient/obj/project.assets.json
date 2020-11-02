@@ -1662,11 +1662,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\BlazorClient\\BlazorClient.csproj",
+      "projectUniqueName": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\BlazorClient.csproj",
       "projectName": "BlazorClient",
-      "projectPath": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\BlazorClient\\BlazorClient.csproj",
+      "projectPath": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\BlazorClient.csproj",
       "packagesPath": "C:\\Users\\JVBPo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\BlazorClient\\obj\\",
+      "outputPath": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -1686,8 +1686,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\SchoolLibrary\\SchoolLibrary.csproj": {
-              "projectPath": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\SchoolLibrary\\SchoolLibrary.csproj"
+            "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\SchoolLibrary\\SchoolLibrary.csproj": {
+              "projectPath": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\SchoolLibrary\\SchoolLibrary.csproj"
             }
           }
         }

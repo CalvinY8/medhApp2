@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8gEZivNCjcEbDkAzZHK6bjfGq1bXM/dwKNofhKTmcFEtW0PGWnNRuBPoqO/9z91BZsw5HgOIJ/dWYqnO9vMEwA==",
+  "dgSpecHash": "wOCga+gjrfMAieHIWhAqjRj25eZX/kvSyzyigRqVyPgsuIZ4t/586Ej3mzGYRuu+aVC3Lvif1vbaRCAZULxr+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\BlazorClient\\BlazorClient.csproj",
+  "projectFilePath": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\BlazorClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JVBPo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "C:\\Users\\JVBPo\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.6\\microsoft.aspnetcore.components.3.1.6.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "10FiwIchH3d3jLo+7Z5XYqCdXf2gnQn2mVdfmNoYCKuz2jzFp6FN19iy2+KmaxkoB9VchgQLI9Ke5VXRN5yKIA==",
+  "dgSpecHash": "XA6Lvik7k7zv61W+0tM0nFAiwhTX87YtuesJP020cU7TPrcOMsnVnDDALhTSOWeNyG9KFzzyHadYHvHbrhlhcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\SchoolApi\\SchoolApi.csproj",
+  "projectFilePath": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\SchoolApi\\SchoolApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JVBPo\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\JVBPo\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

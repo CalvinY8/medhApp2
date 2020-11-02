@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TsW0MyhSR/9e+7ctudR9pNxOhuL7nk906/Yyp1lxSHIRU+Ci5KKgvRfREy7JTLjmFvHiaWzyrRP5tLtt5YKuAg==",
+  "dgSpecHash": "cTsJn1LI57OKTnAqc5awvmiAVDVdavCffAksl7vCZ7mcuDYwlehVFwYdfVj4kA/R3vq4CRjVYkuH5ZqC4aJGpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\SchoolLibrary\\SchoolLibrary.csproj",
+  "projectFilePath": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\SchoolLibrary\\SchoolLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JVBPo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\JVBPo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
