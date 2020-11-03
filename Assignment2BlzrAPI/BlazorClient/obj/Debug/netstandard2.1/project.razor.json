@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\BlazorClient\\BlazorClient.csproj",
+  "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\BlazorClient.csproj",
   "Configuration": {
     "ConfigurationName": "Default",
     "LanguageVersion": "3.0",
@@ -8,35 +8,35 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -434673884,
+        "HashCode": 1897830484,
         "Kind": "Components.Component",
-        "Name": "BlazorClient.App",
+        "Name": "BlazorClient.Pages.Add",
         "AssemblyName": "BlazorClient",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Add"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorClient.App"
+          "Common.TypeName": "BlazorClient.Pages.Add"
         }
       },
       {
-        "HashCode": -1390392872,
+        "HashCode": 1226142584,
         "Kind": "Components.Component",
-        "Name": "BlazorClient.App",
+        "Name": "BlazorClient.Pages.Add",
         "AssemblyName": "BlazorClient",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorClient.App"
+            "TagName": "BlazorClient.Pages.Add"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorClient.App",
+          "Common.TypeName": "BlazorClient.Pages.Add",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -70,6 +70,112 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorClient.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -135380446,
+        "Kind": "Components.Component",
+        "Name": "BlazorClient.Pages.Delete",
+        "AssemblyName": "BlazorClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Delete"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "studentInfo",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "studentInfo"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorClient.Pages.Delete"
+        }
+      },
+      {
+        "HashCode": 370553679,
+        "Kind": "Components.Component",
+        "Name": "BlazorClient.Pages.Delete",
+        "AssemblyName": "BlazorClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorClient.Pages.Delete"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "studentInfo",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "studentInfo"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorClient.Pages.Delete",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1732877038,
+        "Kind": "Components.Component",
+        "Name": "BlazorClient.Pages.Edit",
+        "AssemblyName": "BlazorClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Edit"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "studentInfo",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "studentInfo"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorClient.Pages.Edit"
+        }
+      },
+      {
+        "HashCode": 1641922339,
+        "Kind": "Components.Component",
+        "Name": "BlazorClient.Pages.Edit",
+        "AssemblyName": "BlazorClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorClient.Pages.Edit"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "studentInfo",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "studentInfo"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorClient.Pages.Edit",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -136,145 +242,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorClient.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1897830484,
-        "Kind": "Components.Component",
-        "Name": "BlazorClient.Pages.Add",
-        "AssemblyName": "BlazorClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Add"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorClient.Pages.Add"
-        }
-      },
-      {
-        "HashCode": 1226142584,
-        "Kind": "Components.Component",
-        "Name": "BlazorClient.Pages.Add",
-        "AssemblyName": "BlazorClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorClient.Pages.Add"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorClient.Pages.Add",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1732877038,
-        "Kind": "Components.Component",
-        "Name": "BlazorClient.Pages.Edit",
-        "AssemblyName": "BlazorClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Edit"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "studentInfo",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "studentInfo"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorClient.Pages.Edit"
-        }
-      },
-      {
-        "HashCode": 1641922339,
-        "Kind": "Components.Component",
-        "Name": "BlazorClient.Pages.Edit",
-        "AssemblyName": "BlazorClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorClient.Pages.Edit"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "studentInfo",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "studentInfo"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorClient.Pages.Edit",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -135380446,
-        "Kind": "Components.Component",
-        "Name": "BlazorClient.Pages.Delete",
-        "AssemblyName": "BlazorClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Delete"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "studentInfo",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "studentInfo"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorClient.Pages.Delete"
-        }
-      },
-      {
-        "HashCode": 370553679,
-        "Kind": "Components.Component",
-        "Name": "BlazorClient.Pages.Delete",
-        "AssemblyName": "BlazorClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorClient.Pages.Delete"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "studentInfo",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "studentInfo"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorClient.Pages.Delete",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -408,6 +375,39 @@
         }
       },
       {
+        "HashCode": 601776815,
+        "Kind": "Components.Component",
+        "Name": "BlazorClient.Shared.NavMenu",
+        "AssemblyName": "BlazorClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorClient.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 1321759086,
+        "Kind": "Components.Component",
+        "Name": "BlazorClient.Shared.NavMenu",
+        "AssemblyName": "BlazorClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorClient.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorClient.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1826943316,
         "Kind": "Components.Component",
         "Name": "BlazorClient.Shared.SurveyPrompt",
@@ -457,39 +457,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorClient.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 601776815,
-        "Kind": "Components.Component",
-        "Name": "BlazorClient.Shared.NavMenu",
-        "AssemblyName": "BlazorClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorClient.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 1321759086,
-        "Kind": "Components.Component",
-        "Name": "BlazorClient.Shared.NavMenu",
-        "AssemblyName": "BlazorClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorClient.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorClient.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -11954,63 +11921,63 @@
   "RootNamespace": "BlazorClient",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\BlazorClient\\Pages\\Students.razor",
-      "TargetPath": "Pages\\Students.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\BlazorClient\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\BlazorClient\\Pages\\Delete.razor",
-      "TargetPath": "Pages\\Delete.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\BlazorClient\\Pages\\Edit.razor",
+      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\Pages\\Edit.razor",
       "TargetPath": "Pages\\Edit.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\BlazorClient\\_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\BlazorClient\\Pages\\Add.razor",
-      "TargetPath": "Pages\\Add.razor",
+      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\BlazorClient\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
+      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\Pages\\Students.razor",
+      "TargetPath": "Pages\\Students.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\BlazorClient\\Shared\\MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\BlazorClient\\Shared\\SurveyPrompt.razor",
+      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\Shared\\SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\BlazorClient\\Pages\\FetchData.razor",
+      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\Pages\\Delete.razor",
+      "TargetPath": "Pages\\Delete.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\Pages\\Add.razor",
+      "TargetPath": "Pages\\Add.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\Pages\\FetchData.razor",
       "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\BlazorClient\\App.razor",
+      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\App.razor",
       "TargetPath": "App.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\Assignment2BlzrAPI\\BlazorClient\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
+      "FilePath": "c:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
       "FileKind": "component"
     }
   ],

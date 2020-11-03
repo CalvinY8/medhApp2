@@ -573,7 +573,6 @@ C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assig
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\BlazorClient.RazorTargetAssemblyInfo.cache
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\BlazorClient.csproj.CopyComplete
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\b0TpvbNECjEApqiItDiPeroUemjek75CmG3aJs7M_KA=.hash
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -611,7 +610,6 @@ C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assig
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=.hash
-C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\jnPjd5TJnGjGcJsL2UnW0bNqNapZ5trB9ERak0RDT8Y=.hash
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\oK1Bjv95fH_hSbogUkJE_xDAI203kJG6lL6Sm-NuPWg=.hash
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\y-FyJQOcW2TOcTp7Iuv8brGBzL5ZP0oJdG7ysK_gtKc=.hash
@@ -626,14 +624,11 @@ C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assig
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\NTNCpNCommLayN404ASsFZmTX3WZpJbqKyOjEnhYQd8=.hash
-C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\wTSYbsTytPZ-uU9zpaLQK_r66RtqabBA12efptRyrDA=.hash
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\x5pns7TiW4ubU3hT5F-o1fL8iggWaDEli4l0IJerwnA=.hash
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorClient.dll.gz
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.gz
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
@@ -756,3 +751,8 @@ C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assig
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.br
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\staticwebassets\BlazorClient.StaticWebAssets.Manifest.cache
 C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\staticwebassets\BlazorClient.StaticWebAssets.xml
+C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\wrcPfTlOn-VvWQ0woSsZJLxyqb-u3DqEGbOgvBU_htQ=.hash
+C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\vdnBDq8Hz-CAPFuQmK-K2c8k6zlSDHE7_u0NDbtnpdc=.hash
+C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\1jyoL9aDWFTl_V7SVMYGOU6N6BnoH_-BdHRThJjSfcQ=.hash
+C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\YVRnFfHBbLAWMAAoo9BJIGAiY4POZmjwMKP82f2J-Kw=.hash
+C:\Users\JVBPo\Desktop\CST_term_4\_DEV\comp4976\docker_assignment\medhApp2\Assignment2BlzrAPI\BlazorClient\obj\Debug\netstandard2.1\integrity\WFkbioMi-w1z9wiPrS-oFCMDa3CfSFmN9yPA346gMLg=.hash

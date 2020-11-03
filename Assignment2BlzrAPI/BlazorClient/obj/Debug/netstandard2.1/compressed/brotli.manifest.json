@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\b0TpvbNECjEApqiItDiPeroUemjek75CmG3aJs7M_KA=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\wrcPfTlOn-VvWQ0woSsZJLxyqb-u3DqEGbOgvBU_htQ=.hash",
       "Source": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorClient.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorClient.dll.br"
     },
@@ -191,7 +191,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\jnPjd5TJnGjGcJsL2UnW0bNqNapZ5trB9ERak0RDT8Y=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\vdnBDq8Hz-CAPFuQmK-K2c8k6zlSDHE7_u0NDbtnpdc=.hash",
       "Source": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\SchoolLibrary.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/SchoolLibrary.dll.br"
     },
@@ -266,12 +266,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\NTNCpNCommLayN404ASsFZmTX3WZpJbqKyOjEnhYQd8=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\1jyoL9aDWFTl_V7SVMYGOU6N6BnoH_-BdHRThJjSfcQ=.hash",
       "Source": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorClient.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorClient.pdb.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\wTSYbsTytPZ-uU9zpaLQK_r66RtqabBA12efptRyrDA=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\YVRnFfHBbLAWMAAoo9BJIGAiY4POZmjwMKP82f2J-Kw=.hash",
       "Source": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\SchoolLibrary.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/SchoolLibrary.pdb.br"
     },
@@ -296,7 +296,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\x5pns7TiW4ubU3hT5F-o1fL8iggWaDEli4l0IJerwnA=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\WFkbioMi-w1z9wiPrS-oFCMDa3CfSFmN9yPA346gMLg=.hash",
       "Source": "C:\\Users\\JVBPo\\Desktop\\CST_term_4\\_DEV\\comp4976\\docker_assignment\\medhApp2\\Assignment2BlzrAPI\\BlazorClient\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     }
